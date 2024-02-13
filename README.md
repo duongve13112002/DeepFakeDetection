@@ -20,8 +20,8 @@ With the rise of deepfake technology, the need for robust detection mechanisms b
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/deepfake-detection.git
-   cd deepfake-detection
+   git clone https://github.com/duongve13112002/DeepFakeDetection.git
+   cd DeepFakeDetection
    ```
 
 2. Install dependencies:
