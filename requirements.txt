@@ -1,0 +1,13 @@
+pyngrok
+flask_ngrok
+face_recognition
+keras
+numpy
+opencv-python
+Werkzeug
+dlib
+pandas
+seaborn
+matplotlib
+scikit-learn
+pillow
