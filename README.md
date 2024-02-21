@@ -1,7 +1,7 @@
 # DeepFake Detection 
 
 ## Introduction
-Welcome to our DeepFake Detection project! This repository focuses on detecting DeepFake videos and images using two distinct methods: Convolutional Neural Networks (CNN) and Discrete Fourier Transform (DFT) combined with Support Vector Machines (SVM).
+Welcome to our DeepFake Detection project! This repository focuses on detecting DeepFake videos and images using two distinct methods: Convolutional Neural Network (CNN) and Discrete Fourier Transform (DFT) combined with Support Vector Machines (SVM).
 
 ## Table of Contents
 1. [Motivation](#motivation)
